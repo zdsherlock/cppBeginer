@@ -1,0 +1,2 @@
+D:\develope\cppBeginer\ch01_cppStarted\Debug\ch01_cppStarted.exe
+D:\develope\cppBeginer\ch01_cppStarted\Debug\ch01_cppStarted.pdb
