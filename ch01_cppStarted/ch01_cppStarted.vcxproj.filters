@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Area.cpp">
+    <ClCompile Include="chapterKnowledge.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
