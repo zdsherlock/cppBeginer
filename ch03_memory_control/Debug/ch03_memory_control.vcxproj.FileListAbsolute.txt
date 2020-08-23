@@ -1,0 +1,2 @@
+D:\develope\cppBeginer\ch03_memory_control\Debug\ch03_memory_control.exe
+D:\develope\cppBeginer\ch03_memory_control\Debug\ch03_memory_control.pdb
