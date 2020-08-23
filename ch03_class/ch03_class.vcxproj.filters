@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Addresser.cpp">
+    <ClCompile Include="chapterKnowledge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="poinerCheck.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
