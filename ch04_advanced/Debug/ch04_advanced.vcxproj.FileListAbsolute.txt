@@ -1,0 +1,4 @@
+D:\develope\cppBeginer\ch04_advanced\Debug\ch04_advanced.exe
+D:\develope\cppBeginer\ch04_advanced\Debug\ch04_advanced.pdb
+D:\develope\cppBeginer-local\ch04_advanced\Debug\ch04_advanced.exe
+D:\develope\cppBeginer-local\ch04_advanced\Debug\ch04_advanced.pdb
